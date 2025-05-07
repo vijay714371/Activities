@@ -1,0 +1,17 @@
+/Users/vijaykumarmali/Reactivities/Persistence/bin/Debug/net9.0/Persistence.deps.json
+/Users/vijaykumarmali/Reactivities/Persistence/bin/Debug/net9.0/Persistence.dll
+/Users/vijaykumarmali/Reactivities/Persistence/bin/Debug/net9.0/Persistence.pdb
+/Users/vijaykumarmali/Reactivities/Persistence/bin/Debug/net9.0/Domain.dll
+/Users/vijaykumarmali/Reactivities/Persistence/bin/Debug/net9.0/Domain.pdb
+/Users/vijaykumarmali/Reactivities/Persistence/obj/Debug/net9.0/Persistence.csproj.AssemblyReference.cache
+/Users/vijaykumarmali/Reactivities/Persistence/obj/Debug/net9.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vijaykumarmali/Reactivities/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfoInputs.cache
+/Users/vijaykumarmali/Reactivities/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfo.cs
+/Users/vijaykumarmali/Reactivities/Persistence/obj/Debug/net9.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/vijaykumarmali/Reactivities/Persistence/obj/Debug/net9.0/Persiste.61C28332.Up2Date
+/Users/vijaykumarmali/Reactivities/Persistence/obj/Debug/net9.0/Persistence.dll
+/Users/vijaykumarmali/Reactivities/Persistence/obj/Debug/net9.0/refint/Persistence.dll
+/Users/vijaykumarmali/Reactivities/Persistence/obj/Debug/net9.0/Persistence.pdb
+/Users/vijaykumarmali/Reactivities/Persistence/obj/Debug/net9.0/ref/Persistence.dll
+/Users/vijaykumarmali/Reactivities/Persistence/bin/Debug/net9.0/Persistence.runtimeconfig.json
+/Users/vijaykumarmali/Reactivities/Persistence/obj/Debug/net9.0/Persistence.genruntimeconfig.cache
