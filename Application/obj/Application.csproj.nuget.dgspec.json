@@ -1,36 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vijaykumarmali/Reactivities/Application/Application.csproj": {}
+    "E:\\dotnet\\Activities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "/Users/vijaykumarmali/Reactivities/Application/Application.csproj": {
+    "E:\\dotnet\\Activities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vijaykumarmali/Reactivities/Application/Application.csproj",
+        "projectUniqueName": "E:\\dotnet\\Activities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/vijaykumarmali/Reactivities/Application/Application.csproj",
-        "packagesPath": "/Users/vijaykumarmali/.nuget/packages/",
-        "outputPath": "/Users/vijaykumarmali/Reactivities/Application/obj/",
+        "projectPath": "E:\\dotnet\\Activities\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\dotnet\\Activities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/vijaykumarmali/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/vijaykumarmali/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/Users/vijaykumarmali/Reactivities/Domain/Domain.csproj"
+              "E:\\dotnet\\Activities\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\dotnet\\Activities\\Domain\\Domain.csproj"
               },
-              "/Users/vijaykumarmali/Reactivities/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/vijaykumarmali/Reactivities/Persistence/Persistence.csproj"
+              "E:\\dotnet\\Activities\\Persistence\\Persistence.csproj": {
+                "projectPath": "E:\\dotnet\\Activities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -44,12 +46,11 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -80,31 +81,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/vijaykumarmali/Reactivities/Domain/Domain.csproj": {
+    "E:\\dotnet\\Activities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vijaykumarmali/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "E:\\dotnet\\Activities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/vijaykumarmali/Reactivities/Domain/Domain.csproj",
-        "packagesPath": "/Users/vijaykumarmali/.nuget/packages/",
-        "outputPath": "/Users/vijaykumarmali/Reactivities/Domain/obj/",
+        "projectPath": "E:\\dotnet\\Activities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\dotnet\\Activities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/vijaykumarmali/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -117,12 +120,11 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -139,34 +141,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/vijaykumarmali/Reactivities/Persistence/Persistence.csproj": {
+    "E:\\dotnet\\Activities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vijaykumarmali/Reactivities/Persistence/Persistence.csproj",
+        "projectUniqueName": "E:\\dotnet\\Activities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/vijaykumarmali/Reactivities/Persistence/Persistence.csproj",
-        "packagesPath": "/Users/vijaykumarmali/.nuget/packages/",
-        "outputPath": "/Users/vijaykumarmali/Reactivities/Persistence/obj/",
+        "projectPath": "E:\\dotnet\\Activities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\dotnet\\Activities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/vijaykumarmali/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/vijaykumarmali/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/Users/vijaykumarmali/Reactivities/Domain/Domain.csproj"
+              "E:\\dotnet\\Activities\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\dotnet\\Activities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -180,12 +184,11 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
@@ -212,7 +215,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

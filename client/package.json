@@ -20,6 +20,7 @@
     "@tanstack/react-query": "^5.69.0",
     "@tanstack/react-query-devtools": "^5.69.0",
     "axios": "^1.8.3",
+    "client": "file:",
     "date-fns": "^4.1.0",
     "mobx": "^6.13.7",
     "mobx-react-lite": "^4.1.0",
@@ -43,7 +44,7 @@
     "globals": "^15.15.0",
     "typescript": "~5.7.2",
     "typescript-eslint": "^8.24.1",
-    "vite": "^6.2.0",
+    "vite": "^6.3.5",
     "vite-plugin-mkcert": "^1.17.7"
   }
 }
